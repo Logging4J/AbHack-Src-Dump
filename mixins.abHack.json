@@ -1,0 +1,30 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.abHack.mixin.mixins",
+  "refmap": "mixins.abHack.refmap.json",
+  "mixins": [
+    "MixinAbstractClientPlayer",
+    "MixinAbstractHorse",
+    "MixinBlockLiquid",
+    "MixinEntity",
+    "MixinEntityPlayer",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGuiScreen",
+    "MixinItemRenderer",
+    "MixinLayerBipedArmor",
+    "MixinMinecraft",
+    "MixinMovementInputFromOptions",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinRenderEnderCrystal",
+    "MixinRenderEntityItem",
+    "MixinRenderer",
+    "MixinRenderItem",
+    "MixinRenderLivingBase",
+    "MixinRenderPlayer",
+    "MixinWorld",
+    "accessors.IEntityLivingBase"
+  ]
+}

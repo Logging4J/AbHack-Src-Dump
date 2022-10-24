@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "ab",
+    "name": "ab-Hack",
+    "description": "ab Client",
+    "version": "0.0.1",
+    "mcversion": "1.12.2",
+    "logoFile": "ab-Hack.png",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Steve_ab"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]

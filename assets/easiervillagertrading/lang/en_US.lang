@@ -1,0 +1,3 @@
+msg.cantrade=可交易
+msg.notradeinv=没有材料或库存已满
+msg.tradelocked=交易锁定，交易其他东西！

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.abHack.json
+FMLCorePluginContainsFMLMod: true
+FMLAT: abHack_at.cfg
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: me.alpha432.oyvey.mixin.OyVeyLoader
+
